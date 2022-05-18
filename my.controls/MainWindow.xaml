@@ -1,0 +1,49 @@
+﻿<Window x:Class="my.controls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:my.controls"
+        mc:Ignorable="d"
+        Title="Plugin" Height="700" Width="1400">
+    <Grid>
+		<DockPanel LastChildFill="True">
+			<Menu DockPanel.Dock="Top">
+				<MenuItem Header="_File" >
+					<MenuItem Header="E_xit" Click="OnExitClick"/>
+					<MenuItem Header="C_adastro" Click="OnCadastroClick"/>
+					<MenuItem Header="I_nfoDPC" Click="OnInfoDPCClick"/>
+				</MenuItem>
+				<MenuItem Header="_Projetos">
+					<MenuItem Header="E_mpresas" Click="OnEmpresasClick"/>
+				</MenuItem>
+				<MenuItem Header="_Servicos_BIM">
+					<MenuItem Header="S_erviços" Click="OnServicosBIMClick"/>
+				</MenuItem>
+				<MenuItem Header="_Help">
+					<MenuItem Header="_About" Click="OnAboutClick"/>
+				</MenuItem>
+			</Menu>
+		</DockPanel>
+        <StackPanel Orientation="Vertical" >
+            <ListBox Width="200">
+                <ListBoxItem Content="DPC Consultoria" />
+                <ListBoxItem Content="Cadastro" />
+            </ListBox>
+            <ComboBox Width="200" Height="25" VerticalAlignment="Top">
+                <ComboBoxItem Content="Apresenta um cadastro?" />
+                <ComboBoxItem Content="HELPDESK"/>
+                <ComboBoxItem>
+                    <ComboBoxItem.Content>
+                        <StackPanel Orientation="Vertical" VerticalAlignment="Top">
+                            <Ellipse Fill="Red" Height="15" Width="15" />
+                            <TextBlock Text="im read" Margin="5,0"/>
+                        </StackPanel>
+                    </ComboBoxItem.Content>
+                </ComboBoxItem>
+            </ComboBox>
+            <InkCanvas Background="Orange" />
+			<InkCanvas Background ="Red" />
+        </StackPanel>
+    </Grid>
+</Window>
