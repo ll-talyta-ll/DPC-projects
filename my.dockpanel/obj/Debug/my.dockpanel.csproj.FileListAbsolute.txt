@@ -1,0 +1,16 @@
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\bin\Debug\my.dockpanel.exe.config
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\bin\Debug\my.dockpanel.exe
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\bin\Debug\my.dockpanel.pdb
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\my.dockpanel.csproj.AssemblyReference.cache
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\my.dockpanel.csproj.SuggestedBindingRedirects.cache
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\MainWindow.g.cs
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\App.g.cs
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\my.dockpanel_MarkupCompile.cache
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\my.dockpanel_MarkupCompile.lref
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\MainWindow.baml
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\my.dockpanel.g.resources
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\my.dockpanel.Properties.Resources.resources
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\my.dockpanel.csproj.GenerateResource.cache
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\my.dockpanel.csproj.CoreCompileInputs.cache
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\my.dockpanel.exe
+D:\CERTIFICADOS\CursoGratuitoWPFandXAML\my.dockpanel\obj\Debug\my.dockpanel.pdb
