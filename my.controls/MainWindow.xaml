@@ -42,8 +42,11 @@
                     </ComboBoxItem.Content>
                 </ComboBoxItem>
             </ComboBox>
-            <InkCanvas Background="Orange" />
-			<InkCanvas Background ="Red" />
+            <InkCanvas Background="DodgerBlue" />
+			<InkCanvas Background ="DodgerBlue" />
+			<Button Content ="Desenhe aqui em cima"
+					Background="DodgerBlue"
+					Foreground="White"/>
         </StackPanel>
     </Grid>
 </Window>
