@@ -1,0 +1,1 @@
+..\ConsoleApp3\bin\Debug\net6.0\win-x64\publish\api-ms-win-core-console-l1-1-0.dll

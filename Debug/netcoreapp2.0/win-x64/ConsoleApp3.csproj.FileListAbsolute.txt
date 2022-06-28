@@ -1,0 +1,5 @@
+C:\Users\Talyta\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\win-x64\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Talyta\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\win-x64\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talyta\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\win-x64\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Talyta\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\win-x64\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Talyta\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\win-x64\ConsoleApp3.csproj.CoreCompileInputs.cache

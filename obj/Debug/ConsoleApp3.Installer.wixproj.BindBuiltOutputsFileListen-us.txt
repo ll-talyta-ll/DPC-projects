@@ -1,0 +1,2 @@
+C:\Users\Talyta\source\repos\ConsoleApp3\ConsoleApp3.Installer\bin\Debug\en-us\ConsoleApp-Debug-x64.msi
+C:\Users\Talyta\source\repos\ConsoleApp3\ConsoleApp3.Installer\bin\Debug\en-us\ConsoleApp-Debug-x64.wixpdb
