@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DesktopContactsApp.Properties
+namespace RssReader.Properties
 {
 
 
